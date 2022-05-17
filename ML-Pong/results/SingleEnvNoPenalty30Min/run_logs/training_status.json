@@ -1,0 +1,29 @@
+{
+    "Paddle": {
+        "checkpoints": [
+            {
+                "steps": 4880,
+                "file_path": "results\\SingleEnvNoPenalty30Min\\Paddle\\Paddle-4880.onnx",
+                "reward": null,
+                "creation_time": 1652229312.3445878,
+                "auxillary_file_paths": [
+                    "results\\SingleEnvNoPenalty30Min\\Paddle\\Paddle-4880.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4880,
+            "file_path": "results\\SingleEnvNoPenalty30Min\\Paddle.onnx",
+            "reward": null,
+            "creation_time": 1652229312.3445878,
+            "auxillary_file_paths": [
+                "results\\SingleEnvNoPenalty30Min\\Paddle\\Paddle-4880.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

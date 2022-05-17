@@ -1,0 +1,56 @@
+{
+    "Paddle": {
+        "checkpoints": [
+            {
+                "steps": 17542,
+                "file_path": "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-17542.onnx",
+                "reward": 0.5920000001788139,
+                "creation_time": 1652568265.293682,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-17542.pt"
+                ]
+            },
+            {
+                "steps": 499936,
+                "file_path": "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-499936.onnx",
+                "reward": 0.5920000001788139,
+                "creation_time": 1652570225.6522431,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-499936.pt"
+                ]
+            },
+            {
+                "steps": 999952,
+                "file_path": "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-999952.onnx",
+                "reward": null,
+                "creation_time": 1652572256.8889158,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-999952.pt"
+                ]
+            },
+            {
+                "steps": 1000016,
+                "file_path": "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-1000016.onnx",
+                "reward": null,
+                "creation_time": 1652572256.963896,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-1000016.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000016,
+            "file_path": "results\\MultipleEnvNormal1MSteps\\Paddle.onnx",
+            "reward": null,
+            "creation_time": 1652572256.963896,
+            "auxillary_file_paths": [
+                "results\\MultipleEnvNormal1MSteps\\Paddle\\Paddle-1000016.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Paddle": {
+        "elo": 902.2687903704907,
+        "checkpoints": [
+            {
+                "steps": 320956,
+                "file_path": "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-320956.onnx",
+                "reward": null,
+                "creation_time": 1652240948.6170082,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-320956.pt"
+                ]
+            },
+            {
+                "steps": 387634,
+                "file_path": "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-387634.onnx",
+                "reward": -1.0880000591278076,
+                "creation_time": 1652547132.2893157,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-387634.pt"
+                ]
+            },
+            {
+                "steps": 499976,
+                "file_path": "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-499976.onnx",
+                "reward": 1.4739999771118164,
+                "creation_time": 1652550759.5811718,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-499976.pt"
+                ]
+            },
+            {
+                "steps": 999982,
+                "file_path": "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-999982.onnx",
+                "reward": -1.1082500368356705,
+                "creation_time": 1652553198.0683606,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-999982.pt"
+                ]
+            },
+            {
+                "steps": 1000067,
+                "file_path": "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-1000067.onnx",
+                "reward": -1.1644999980926514,
+                "creation_time": 1652553198.9883618,
+                "auxillary_file_paths": [
+                    "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-1000067.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000067,
+            "file_path": "results\\MultipleEnvCompetitive500KSteps\\Paddle.onnx",
+            "reward": -1.1644999980926514,
+            "creation_time": 1652553198.9883618,
+            "auxillary_file_paths": [
+                "results\\MultipleEnvCompetitive500KSteps\\Paddle\\Paddle-1000067.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
